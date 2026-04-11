@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\preet\\source\\repos\\Project5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2BF518-1C0C-43FC-9194-662FCD1D4359}|Project5_WebApp\\Project5_WebApp.csproj|c:\\users\\preet\\source\\repos\\project5\\project5_webapp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6F2BF518-1C0C-43FC-9194-662FCD1D4359}|Project5_WebApp\\Project5_WebApp.csproj|solutionrelative:project5_webapp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2BF518-1C0C-43FC-9194-662FCD1D4359}|Project5_WebApp\\Project5_WebApp.csproj|c:\\users\\preet\\source\\repos\\project5\\project5_webapp\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2BF518-1C0C-43FC-9194-662FCD1D4359}|Project5_WebApp\\Project5_WebApp.csproj|solutionrelative:project5_webapp\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF1FF7B-2E94-4A5A-AA6E-CD0337E8AE3C}|Project5_Service\\Project5_Service.csproj|c:\\users\\preet\\source\\repos\\project5\\project5_service\\weatherservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF1FF7B-2E94-4A5A-AA6E-CD0337E8AE3C}|Project5_Service\\Project5_Service.csproj|solutionrelative:project5_service\\weatherservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9D1E17-6AAF-42F6-84D4-CD3DAC8757FA}|Project5_LocalComponents\\Project5_LocalComponents.csproj|c:\\users\\preet\\source\\repos\\project5\\project5_localcomponents\\securityutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9D1E17-6AAF-42F6-84D4-CD3DAC8757FA}|Project5_LocalComponents\\Project5_LocalComponents.csproj|solutionrelative:project5_localcomponents\\securityutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF1FF7B-2E94-4A5A-AA6E-CD0337E8AE3C}|Project5_Service\\Project5_Service.csproj|c:\\users\\preet\\source\\repos\\project5\\project5_service\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF1FF7B-2E94-4A5A-AA6E-CD0337E8AE3C}|Project5_Service\\Project5_Service.csproj|solutionrelative:project5_service\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF1FF7B-2E94-4A5A-AA6E-CD0337E8AE3C}|Project5_Service\\Project5_Service.csproj|c:\\users\\preet\\source\\repos\\project5\\project5_service\\weatherservice.svc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8DF1FF7B-2E94-4A5A-AA6E-CD0337E8AE3C}|Project5_Service\\Project5_Service.csproj|solutionrelative:project5_service\\weatherservice.svc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF1FF7B-2E94-4A5A-AA6E-CD0337E8AE3C}|Project5_Service\\Project5_Service.csproj|c:\\users\\preet\\source\\repos\\project5\\project5_service\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8DF1FF7B-2E94-4A5A-AA6E-CD0337E8AE3C}|Project5_Service\\Project5_Service.csproj|solutionrelative:project5_service\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2BF518-1C0C-43FC-9194-662FCD1D4359}|Project5_WebApp\\Project5_WebApp.csproj|c:\\users\\preet\\source\\repos\\project5\\project5_webapp\\tryitweather.aspx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6F2BF518-1C0C-43FC-9194-662FCD1D4359}|Project5_WebApp\\Project5_WebApp.csproj|solutionrelative:project5_webapp\\tryitweather.aspx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9D1E17-6AAF-42F6-84D4-CD3DAC8757FA}|Project5_LocalComponents\\Project5_LocalComponents.csproj|c:\\users\\preet\\source\\repos\\project5\\project5_localcomponents\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0C9D1E17-6AAF-42F6-84D4-CD3DAC8757FA}|Project5_LocalComponents\\Project5_LocalComponents.csproj|solutionrelative:project5_localcomponents\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2BF518-1C0C-43FC-9194-662FCD1D4359}|Project5_WebApp\\Project5_WebApp.csproj|c:\\users\\preet\\source\\repos\\project5\\project5_webapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6F2BF518-1C0C-43FC-9194-662FCD1D4359}|Project5_WebApp\\Project5_WebApp.csproj|solutionrelative:project5_webapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2BF518-1C0C-43FC-9194-662FCD1D4359}|Project5_WebApp\\Project5_WebApp.csproj|c:\\users\\preet\\source\\repos\\project5\\project5_webapp\\staff.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2BF518-1C0C-43FC-9194-662FCD1D4359}|Project5_WebApp\\Project5_WebApp.csproj|solutionrelative:project5_webapp\\staff.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2BF518-1C0C-43FC-9194-662FCD1D4359}|Project5_WebApp\\Project5_WebApp.csproj|c:\\users\\preet\\source\\repos\\project5\\project5_webapp\\staff.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2BF518-1C0C-43FC-9194-662FCD1D4359}|Project5_WebApp\\Project5_WebApp.csproj|solutionrelative:project5_webapp\\staff.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Project5_Service||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF1FF7B-2E94-4A5A-AA6E-CD0337E8AE3C}|Project5_Service\\Project5_Service.csproj|c:\\users\\preet\\source\\repos\\project5\\project5_service\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Staff.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_WebApp\\Staff.aspx.cs",
+              "RelativeDocumentMoniker": "Project5_WebApp\\Staff.aspx.cs",
+              "ToolTip": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_WebApp\\Staff.aspx.cs",
+              "RelativeToolTip": "Project5_WebApp\\Staff.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T22:21:38.574Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_LocalComponents\\Web.config",
+              "RelativeDocumentMoniker": "Project5_LocalComponents\\Web.config",
+              "ToolTip": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_LocalComponents\\Web.config",
+              "RelativeToolTip": "Project5_LocalComponents\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-10T17:37:48.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Staff.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_WebApp\\Staff.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Project5_WebApp\\Staff.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_WebApp\\Staff.aspx.designer.cs",
+              "RelativeToolTip": "Project5_WebApp\\Staff.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:49:36.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_WebApp\\Web.config",
+              "RelativeDocumentMoniker": "Project5_WebApp\\Web.config",
+              "ToolTip": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_WebApp\\Web.config",
+              "RelativeToolTip": "Project5_WebApp\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-10T16:49:09.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_WebApp\\Default.aspx",
+              "RelativeDocumentMoniker": "Project5_WebApp\\Default.aspx",
+              "ToolTip": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_WebApp\\Default.aspx",
+              "RelativeToolTip": "Project5_WebApp\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-04-09T22:19:52.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_Service\\Web.config",
+              "RelativeDocumentMoniker": "Project5_Service\\Web.config",
+              "ToolTip": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_Service\\Web.config",
+              "RelativeToolTip": "Project5_Service\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-09T22:18:26.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherService.svc.cs",
+              "DocumentMoniker": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_Service\\WeatherService.svc.cs",
+              "RelativeDocumentMoniker": "Project5_Service\\WeatherService.svc.cs",
+              "ToolTip": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_Service\\WeatherService.svc.cs",
+              "RelativeToolTip": "Project5_Service\\WeatherService.svc.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T22:14:40.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherService.svc",
+              "DocumentMoniker": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_Service\\WeatherService.svc",
+              "RelativeDocumentMoniker": "Project5_Service\\WeatherService.svc",
+              "ToolTip": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_Service\\WeatherService.svc",
+              "RelativeToolTip": "Project5_Service\\WeatherService.svc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003504|",
+              "WhenOpened": "2026-04-09T22:16:20.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_Service\\IWeatherService.cs",
+              "RelativeDocumentMoniker": "Project5_Service\\IWeatherService.cs",
+              "ToolTip": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_Service\\IWeatherService.cs",
+              "RelativeToolTip": "Project5_Service\\IWeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T22:13:49.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_WebApp\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Project5_WebApp\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_WebApp\\Default.aspx.cs",
+              "RelativeToolTip": "Project5_WebApp\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T19:26:13.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TryItWeather.aspx",
+              "DocumentMoniker": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_WebApp\\TryItWeather.aspx",
+              "RelativeDocumentMoniker": "Project5_WebApp\\TryItWeather.aspx",
+              "ToolTip": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_WebApp\\TryItWeather.aspx",
+              "RelativeToolTip": "Project5_WebApp\\TryItWeather.aspx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-04-10T18:58:34.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecurityUtils.cs",
+              "DocumentMoniker": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_LocalComponents\\SecurityUtils.cs",
+              "RelativeDocumentMoniker": "Project5_LocalComponents\\SecurityUtils.cs",
+              "ToolTip": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_LocalComponents\\SecurityUtils.cs",
+              "RelativeToolTip": "Project5_LocalComponents\\SecurityUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T20:04:09.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Project5_Service",
+              "DocumentMoniker": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_Service\\Project5_Service.csproj",
+              "RelativeDocumentMoniker": "Project5_Service\\Project5_Service.csproj",
+              "ToolTip": "C:\\Users\\preet\\source\\repos\\Project5\\Project5_Service\\Project5_Service.csproj",
+              "RelativeToolTip": "Project5_Service\\Project5_Service.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-09T22:25:10.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

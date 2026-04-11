@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Project5_LocalComponents/Project5_LocalComponents.csproj" />
+  <Project Path="Project5_Service/Project5_Service.csproj" />
+  <Project Path="Project5_WebApp/Project5_WebApp.csproj" />
+</Solution>
