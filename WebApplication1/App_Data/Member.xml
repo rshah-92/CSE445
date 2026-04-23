@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Members>
+	<Member>
+		<Username>testuser</Username>
+		<!-- Password is hashed via DLL - this is SHA-256 of "Test123!" -->
+		<Password>Test123!</Password>
+		<Email>test@asu.edu</Email>
+		<Campus>Tempe</Campus>
+		<JoinDate>2026-04-09</JoinDate>
+	</Member>
+</Members>
+
+

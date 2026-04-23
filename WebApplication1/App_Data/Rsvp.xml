@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Rsvps>
+	<!-- RSVP entries are added here by the service -->
+	<Rsvp>
+		<EventId>EVT001</EventId>
+		<Username>testuser</Username>
+		<Timestamp>2026-04-09 12:00:00</Timestamp>
+	</Rsvp>
+</Rsvps>
+
+

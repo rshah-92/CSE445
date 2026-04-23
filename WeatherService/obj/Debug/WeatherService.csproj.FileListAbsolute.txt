@@ -1,0 +1,7 @@
+C:\Users\preet\Downloads\CSE445\CSE445-Rudra-Branch\WeatherService\bin\WeatherService.dll.config
+C:\Users\preet\Downloads\CSE445\CSE445-Rudra-Branch\WeatherService\bin\WeatherService.dll
+C:\Users\preet\Downloads\CSE445\CSE445-Rudra-Branch\WeatherService\bin\WeatherService.pdb
+C:\Users\preet\Downloads\CSE445\CSE445-Rudra-Branch\WeatherService\obj\Debug\WeatherService.csproj.AssemblyReference.cache
+C:\Users\preet\Downloads\CSE445\CSE445-Rudra-Branch\WeatherService\obj\Debug\WeatherService.csproj.CoreCompileInputs.cache
+C:\Users\preet\Downloads\CSE445\CSE445-Rudra-Branch\WeatherService\obj\Debug\WeatherService.dll
+C:\Users\preet\Downloads\CSE445\CSE445-Rudra-Branch\WeatherService\obj\Debug\WeatherService.pdb
